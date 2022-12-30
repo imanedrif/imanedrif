@@ -9,10 +9,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * 🚀  I'm currently working on Digital services Platform
 * 🧠  I'm learning Next JS , Django
 * 💬 Ask me about ReactJs , Laravel 
-* ⚡  fun fact solving others probleme makes me happy
+* ⚡ Fun Fact solving others problemes makes me happy
 
 
-### Skills
+### 👩🏻‍💻 Skills 
 
 
 <p align="left">
@@ -38,7 +38,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 
 
-### Socials
+### 🌎 Socials
 
 <p align="left">
 <a href="https://discord.com/users/𝐺E͎W͜͡ℐ𝓂𝒶𝓃#1350" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) "/></a>
