@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Imane Drif
 ==================================================================================================================================
 
-👨‍🎓This is Imane Drif , Full Stack Developer who finds pleasure in coding creative and unique websites. 
+👨‍🎓This is Imane Drif , Full Stack Developer who finds pleasure in coding creative and unique websites. <br>
 ⚡I am always fascinated by programming and passionate about exploring the latest technology and developing new cool things. So I mostly deal with artifical intelligence in these days to discover new things and get perfect skills
 
 * 🌍  I'm based in Morocco
